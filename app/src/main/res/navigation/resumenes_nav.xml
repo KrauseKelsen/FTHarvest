@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/resumenes_nav"
+    app:startDestination="@id/resumenCosechaFragment">
+
+    <fragment
+        android:id="@+id/resumenBoletasFragment"
+        android:name="com.pfflowers.ftharvest.ui.resumenes.ResumenBoletasFragment"
+        android:label="fragment_resumen_boletas"
+        tools:layout="@layout/fragment_resumen_boletas" />
+    <fragment
+        android:id="@+id/resumenCosechaFragment"
+        android:name="com.pfflowers.ftharvest.ui.resumenes.ResumenCosechaFragment"
+        android:label="fragment_resumen_cosecha"
+        tools:layout="@layout/fragment_resumen_cosecha" />
+    <fragment
+        android:id="@+id/resagadosFragment"
+        android:name="com.pfflowers.ftharvest.ui.resumenes.ResagadosFragment"
+        android:label="fragment_resagados"
+        tools:layout="@layout/fragment_resagados" />
+</navigation>

@@ -1,0 +1,49 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable-v24/bg_gradiend_buttom_radius.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/bg_btn.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/bg_card.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/bg_editext.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_bookmark_border_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_chevron_left_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_cloud_off_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_content_paste_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_format_align_left_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_logo.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_more_vert_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_settings_black_24dp.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_tractor.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/drawable/ic_tractor_lineas.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/activity_ingreso.xml" value="0.16666666666666666" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/activity_resumenes.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_ingreso_cosecha.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_ingreso_cosecha_ingreso.xml" value="0.3333333333333333" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_ingreso_cosecha_resumen.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_main_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_resagados.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_resumen_boletas.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/fragment_resumen_cosecha.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/lectura_caja_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/menu_item_layout.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/resumen_boleta_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/resumen_dia_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/spinner_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/layout/tarjeta_lectura_caja.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/menu/botton_nav_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/menu/resumenes_botton_nav_menu.xml" value="0.17552083333333332" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19166666666666668" />
+        <entry key="..\:/repo/Android/Kotlin/ftharvest/app/src/main/res/xml/preference_main.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

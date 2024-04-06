@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="item_icons">
+        <item>@drawable/ic_tractor</item>
+    </array>
+    <string-array name="item_names">
+        <item>Ingreso cosecha</item>
+        <item>Resumenes</item>
+    </string-array>
+    <array name="item_directions">
+        <item>@id/from_main_menu_to_nav</item>
+        <item>@id/from_main_menu_to_resumenes</item>
+    </array>
+</resources>

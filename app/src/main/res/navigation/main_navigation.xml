@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_navigation"
+    app:startDestination="@id/mainMenuFragment">
+    <fragment
+        android:id="@+id/mainMenuFragment"
+        android:name="com.pfflowers.ftharvest.ui.MainMenuFragment"
+        android:label="fragment_main_menu"
+        tools:layout="@layout/fragment_main_menu" >
+        <action
+            android:id="@+id/from_main_menu_to_nav"
+            app:destination="@id/ingreso" />
+        <action
+            android:id="@+id/from_main_menu_to_settings"
+            app:destination="@id/settingsActivity" />
+        <action
+            android:id="@+id/from_main_menu_to_resumenes"
+            app:destination="@id/resumenesActivity" />
+    </fragment>
+    <activity
+        android:id="@+id/ingreso"
+        android:name="com.pfflowers.ftharvest.ui.ingresoCosecha.Ingreso"
+        android:label="activity_ingreso"
+        tools:layout="@layout/activity_ingreso" />
+    <activity
+        android:id="@+id/settingsActivity"
+        android:name="com.pfflowers.ftharvest.ui.settings.SettingsActivity"
+        android:label="SettingsActivity" />
+    <activity
+        android:id="@+id/resumenesActivity"
+        android:name="com.pfflowers.ftharvest.ui.resumenes.ResumenesActivity"
+        android:label="activity_resumenes"
+        tools:layout="@layout/activity_resumenes" />
+</navigation>

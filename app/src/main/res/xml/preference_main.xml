@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory android:title="Configuracion de uso">
+
+        <EditTextPreference
+            android:defaultValue="150"
+            android:key="preference_user"
+            android:selectAllOnFocus="true"
+            android:singleLine="true"
+            android:title="Usuario"/>
+        <ListPreference
+            android:defaultValue="1"
+            android:entries="@array/NamePlantas"
+            android:entryValues="@array/idPlantas"
+            android:key="preference_planta"
+            android:title="Planta"
+            app:summary="%s" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

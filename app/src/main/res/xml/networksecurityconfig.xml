@@ -1,0 +1,5 @@
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">http://192.168.200.110/Services/FTHarvestWS/</domain>
+    </domain-config>
+</network-security-config>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_dia"
+        android:icon="@drawable/ic_bookmark_border_black_24dp"
+        android:title="Día" />
+    <item
+        android:id="@+id/item_boletas"
+        android:icon="@drawable/ic_content_paste_black_24dp"
+        android:title="Boletas" />
+    <item
+        android:id="@+id/item_resagados"
+        android:icon="@drawable/ic_cloud_off_black_24dp"
+        android:title="Resagados" />
+    <item
+        android:id="@+id/item_volver"
+        android:icon="@drawable/ic_chevron_left_black_24dp"
+        android:title="Volver" />
+</menu>
